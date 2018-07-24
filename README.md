@@ -1,6 +1,6 @@
-# Linkedin Outh
-# 1. Just clone or download this files
-# 2.    Open the init_functions.php and change this following lines
+### Linkedin Outh
+### 1. Just clone or download this files
+### 2.    Open the init_functions.php and change this following lines
 ```markdown
 
     $client_id     = "Your client id";
